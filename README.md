@@ -1,7 +1,7 @@
 # Stack Simulator
 
-**Name:** Marlon Josh Calimlim  
-**Section:** Your Section
+**Name:** Marlon Josh A. Calimlim  
+**Section:** BSIT DA II - 1
 
 ## Original Starter Repository
 
